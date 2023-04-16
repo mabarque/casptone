@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/capstone/static/js/main.46723786.js",
+    "static/media/ladyonphone.png": "/capstone/static/media/ladyonphone.a14546c5f9f08b1585ab.png",
+    "static/media/fourthimage.jpeg": "/capstone/static/media/fourthimage.ccdca101a1698d829c95.jpeg",
+    "static/media/thirdimage.jpeg": "/capstone/static/media/thirdimage.d614ff48bd8a815c24af.jpeg",
+    "static/media/onlinemedia.jpeg": "/capstone/static/media/onlinemedia.5d522680d513138024c2.jpeg",
+    "static/media/family.jpeg": "/capstone/static/media/family.3488a2710d50007c93c0.jpeg",
+    "static/media/second.jpeg": "/capstone/static/media/second.50a4e6b6ae5fbeb616cf.jpeg",
+    "static/media/home12.jpeg": "/capstone/static/media/home12.a7e7e4c8afc4a51d2de9.jpeg",
+    "static/media/homepic.jpeg": "/capstone/static/media/homepic.2df27a1cd0b54b830af8.jpeg",
+    "static/media/onlinetips.png": "/capstone/static/media/onlinetips.960c50dcaad270aab8da.png",
+    "static/media/incognitoreasons.png": "/capstone/static/media/incognitoreasons.e32a3792b05657316c9b.png",
+    "static/media/cookiespic.png": "/capstone/static/media/cookiespic.53f71086e654e65d1cce.png",
+    "static/media/alexa.png": "/capstone/static/media/alexa.2dbd05eee188b5a2fb9f.png",
+    "static/media/therm.png": "/capstone/static/media/therm.6b71ce9978b811d79e69.png",
+    "static/media/appleicon.png": "/capstone/static/media/appleicon.1df50866666d0c5ee7bb.png",
+    "static/media/icon1.png": "/capstone/static/media/icon1.80302b03f76f93738736.png",
+    "static/media/macbook1.png": "/capstone/static/media/macbook1.9ba96d27f760b06b16bc.png",
+    "static/media/ring.png": "/capstone/static/media/ring.6a093cc73427a948d1ed.png",
+    "static/media/androidicon.png": "/capstone/static/media/androidicon.93650c9c2a0e6f930d7a.png",
+    "static/media/windowsicon2.png": "/capstone/static/media/windowsicon2.d2d5b5a1d136dc94898e.png",
+    "static/media/cctv.png": "/capstone/static/media/cctv.fddd6d9ad5c6935b5dc9.png",
+    "static/media/Arrowdown.png": "/capstone/static/media/Arrowdown.5f5498be363ae8285b52.png",
+    "static/media/Arrowup.png": "/capstone/static/media/Arrowup.0149b18e9bd4c085086c.png",
+    "static/media/plug.png": "/capstone/static/media/plug.bdb736f5bd9c730ffc46.png",
+    "static/media/lock.png": "/capstone/static/media/lock.6aa1b83cad04d3acfbc3.png",
+    "static/media/watch.png": "/capstone/static/media/watch.77a55d8e4eeab4f1a0c0.png",
+    "static/media/tv.png": "/capstone/static/media/tv.e79ce7271ec8f91b471f.png",
+    "static/media/phone.png": "/capstone/static/media/phone.cefee047269bbe1a13c4.png",
+    "static/media/bulbicon.png": "/capstone/static/media/bulbicon.4fac19ce826950d044b1.png",
+    "static/media/website.png": "/capstone/static/media/website.a0e9d2b8e79a7ae8b195.png",
+    "static/media/sms1.png": "/capstone/static/media/sms1.fe1cee281ad8c1976510.png",
+    "index.html": "/capstone/index.html",
+    "main.46723786.js.map": "/capstone/static/js/main.46723786.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.46723786.js"
+  ]
+}
