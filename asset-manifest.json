@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/capstone/static/js/main.46723786.js",
+    "main.js": "/capstone/static/js/main.054379e4.js",
     "static/media/ladyonphone.png": "/capstone/static/media/ladyonphone.a14546c5f9f08b1585ab.png",
     "static/media/fourthimage.jpeg": "/capstone/static/media/fourthimage.ccdca101a1698d829c95.jpeg",
     "static/media/thirdimage.jpeg": "/capstone/static/media/thirdimage.d614ff48bd8a815c24af.jpeg",
@@ -32,9 +32,9 @@
     "static/media/website.png": "/capstone/static/media/website.a0e9d2b8e79a7ae8b195.png",
     "static/media/sms1.png": "/capstone/static/media/sms1.fe1cee281ad8c1976510.png",
     "index.html": "/capstone/index.html",
-    "main.46723786.js.map": "/capstone/static/js/main.46723786.js.map"
+    "main.054379e4.js.map": "/capstone/static/js/main.054379e4.js.map"
   },
   "entrypoints": [
-    "static/js/main.46723786.js"
+    "static/js/main.054379e4.js"
   ]
 }
